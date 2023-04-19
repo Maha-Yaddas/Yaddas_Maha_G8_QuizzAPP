@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "277129349141",
+    "project_id": "quizc-64e69",
+    "storage_bucket": "quizc-64e69.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:277129349141:android:b5cd8f147044802382a61c",
+        "android_client_info": {
+          "package_name": "com.yaddas.maps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "277129349141-3ionfvriv8kkcuqjtdcq38s0lulvsh8r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAO6Ps6vs4vTVu7ZgaZ6gBBBj-b3z1qT7A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "277129349141-3ionfvriv8kkcuqjtdcq38s0lulvsh8r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
